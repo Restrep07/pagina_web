@@ -1,0 +1,175 @@
+.navbar{
+    background-color:black;
+    padding: 20px;
+}
+.button-navbar{
+    text-align: right;
+}
+
+.texto1{
+    background-image:url(../images/tupac.jpg) ;
+    padding: 40px;
+    font-size: 200%;
+    
+}
+
+.texto2{
+    background-color:black;
+    color: #f5f5f5; 
+    margin: 100px;
+
+}
+.texto3{
+    color: #f5f5f5;
+
+}
+.pop1{
+    color: yellow;
+    text-align: left;
+}
+
+body{
+    background-color: black;
+    background-image:url(../images/);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+    
+}
+
+p{
+
+    text-align: justify;
+    color:gray;
+    
+   
+    
+   
+}
+
+
+img{
+    width: 100px;   
+}
+
+ol, ul{
+    padding: 0;
+}
+
+
+h1, h2{
+    padding: 50px;
+    
+}
+.chocolate{
+    background-color: #000000;
+}
+.blue{
+    color: aqua;
+    width: 1505px;
+    float: right;
+}
+.text{
+    color: aqua;
+}
+.gold{
+    color:#ffff00;
+}
+.black{
+    padding: 2px;
+    background-color: rgba(255, 107, 2, 0.815);
+    border: 2px solid chocolate;
+    
+}
+.red{
+    padding: 7px;
+    background-color: rgba(255, 107, 2, 0.815);
+    border: 2px solid rgba(210, 105, 30, 0.664);
+   
+
+}
+.dio{
+    padding: 3px;
+    background-color: rgba(255, 107, 2, 0.815);
+    border: 2px solid chocolate;
+    
+}
+
+
+nav ul li{
+    list-style: none;
+    display: inline;
+}
+
+nav ul li a{
+    text-emphasis: none;
+    padding: 7px 10px;
+    margin:0 20px 0 0;
+    border:1px solid chocolate;
+    background: rgba(210, 105, 30, 0.431);
+    color:white;
+    border-radius: 10px;
+}
+
+nav ul li a:hover{
+    background:white;
+    color: rgb(255, 0, 0);
+}
+
+.lol {
+    text-align: right ;
+    width: 1676px;
+    margin: -107px auto;
+    
+}
+
+.float{
+    float: right;
+}
+
+.clear{
+    clear: both;
+
+}
+
+.pop{
+    width: 1000px;
+    float: right;
+
+
+}
+.video-responsive {
+    position: relative;
+    padding-bottom: 56.25%; /* 16/9 ratio */
+    padding-top: 30px; /* IE6 workaround*/
+    height: 0;
+    overflow: hidden;
+    }
+    
+    .video-responsive iframe,
+    .video-responsive object,
+    .video-responsive embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 20%;
+    height: 20%;
+    }
+.class{
+    width: 40%;
+}
+.aragan{
+    color: white;
+    border-collapse: separate;
+}
+.fila{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    image-orientation:center;
+    
+}
+.biggi{
+    color:#ffff00;
+    text-align: center;
+}
